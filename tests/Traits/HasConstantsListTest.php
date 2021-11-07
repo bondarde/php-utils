@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Tests\Traits;
 
-use Bond211\Utils\Traits\HasConstantsList;
+use BondarDe\Utils\Traits\HasConstantsList;
 use PHPUnit\Framework\TestCase;
 
 class ClassWithConstants

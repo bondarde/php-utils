@@ -1,6 +1,6 @@
 <?php
 
-namespace Bond211\Utils\Html;
+namespace BondarDe\Utils\Html;
 
 class AttributeValueValidator
 {

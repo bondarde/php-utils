@@ -2,7 +2,7 @@
 
 namespace Tests\Support;
 
-use Bond211\Utils\Support\Arrays;
+use BondarDe\Utils\Support\Arrays;
 use PHPUnit\Framework\TestCase;
 
 class ArraysTest extends TestCase

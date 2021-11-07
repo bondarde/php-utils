@@ -2,8 +2,8 @@
 
 namespace Tests\Html;
 
-use Bond211\Utils\Html\DOM;
-use Bond211\Utils\Html\HtmlException;
+use BondarDe\Utils\Html\DOM;
+use BondarDe\Utils\Html\HtmlException;
 use PHPUnit\Framework\TestCase;
 
 final class DomTest extends TestCase

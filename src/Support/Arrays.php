@@ -1,6 +1,6 @@
 <?php
 
-namespace Bond211\Utils\Support;
+namespace BondarDe\Utils\Support;
 
 class Arrays
 {

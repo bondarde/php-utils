@@ -1,6 +1,6 @@
 <?php
 
-namespace Bond211\Utils\Traits;
+namespace BondarDe\Utils\Traits;
 
 use ReflectionClass;
 use ReflectionException;
